@@ -1,0 +1,17 @@
+h3 {
+  border: 1px solid rgb(7, 7, 7);
+  padding: 0.5rem;
+  border-radius: 12px;
+  margin-top: 25px;
+  background-color: #676467;
+  color: aliceblue;
+}
+
+.form {
+  background-color: #676467;
+  border: 1.5px solid rgb(7, 7, 7);
+  padding: 0.8rem;
+  border-radius: 12px;
+  margin-top: 75px;
+  color: aliceblue;
+}
